@@ -1,0 +1,23 @@
+.routingList {
+  position: fixed;
+  left: 20px;
+  top: 70px;
+  width: 160px;
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-start;
+  flex-direction: column;
+}
+
+.routingList-item {
+  text-decoration: none;
+  cursor: pointer;
+  color: #ebd882;
+}
+
+.horizontal-line {
+  width: 100px;
+  margin: 6px 0;
+  height: 1px;
+  background-color: #ebd882;
+}

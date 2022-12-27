@@ -1,0 +1,22 @@
+.about-page {
+  color: #ebd882;
+}
+
+.about-block {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  margin-bottom: 30px;
+}
+
+.about-title {
+  font-size: 18px;
+  font-weight: 500;
+  margin-bottom: 20px;
+}
+
+.about-txt {
+  font-size: 14px;
+  font-weight: 400;
+  margin-bottom: 10px;
+}

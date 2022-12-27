@@ -1,0 +1,39 @@
+.card {
+  background-color: #3c1e16;
+  font-size: 14px;
+  font-weight: 400;
+  margin: 5px;
+  border: 2px solid #ebd882;
+  border-radius: 8px;
+  padding: 16px;
+  box-sizing: border-box;
+  padding: 16px;
+  box-sizing: border-box;
+  width: 325px;
+  height: 675px;
+}
+
+.card-row {
+  margin: 5px 0;
+}
+
+.card-row span {
+  font-style: italic;
+  font-weight: 600;
+}
+
+.card-row.title {
+  margin: 10px 0;
+  font-weight: 600;
+  font-size: 21px;
+  display: flex;
+  justify-content: center;
+}
+
+.card-row.description {
+  font-style: italic;
+  display: flex;
+  justify-content: center;
+  margin-bottom: 10px;
+  text-align: center;
+}

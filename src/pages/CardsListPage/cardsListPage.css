@@ -1,0 +1,23 @@
+.cards-page {
+  color: #ebd882;
+}
+
+.cards-block {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  margin-bottom: 30px;
+}
+
+.cards-title {
+  font-size: 18px;
+  font-weight: 500;
+  margin-bottom: 20px;
+  margin-left: 5px;
+}
+
+.cards-items {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+}

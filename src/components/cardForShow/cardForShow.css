@@ -1,0 +1,35 @@
+.cardForShow {
+  background-color: #3c1e16;
+  font-size: 14px;
+  font-weight: 400;
+  margin: 15px;
+  border: 2px solid #ebd882;
+  border-radius: 8px;
+  padding: 16px;
+  box-sizing: border-box;
+  width: 275px;
+  height: 400px;
+}
+
+.cardForShow-row {
+  margin: 10px 0;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
+
+.cardForShow-row a {
+  font-style: italic;
+  font-weight: 600;
+}
+
+.cardForShow-row.title {
+  margin: 10px 0;
+  font-weight: 600;
+  font-size: 21px;
+}
+
+.cardForShow-row.description {
+  font-style: italic;
+  margin-bottom: 10px;
+}
